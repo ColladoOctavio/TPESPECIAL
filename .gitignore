@@ -1,0 +1,19 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cache y temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Config local de VS Code
+.vscode/
+
+# Archivos grandes opcionales
+*.zip
+*.log
